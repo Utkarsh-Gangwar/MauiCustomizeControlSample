@@ -1,6 +1,6 @@
 ﻿using System;
+using Microsoft.Maui.Accessibility;
 using Microsoft.Maui.Controls;
-using Microsoft.Maui.Essentials;
 
 namespace MauiCustomizeControlSample
 {
